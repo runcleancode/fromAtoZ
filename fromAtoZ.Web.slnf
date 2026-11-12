@@ -1,0 +1,9 @@
+{
+    "solution":{
+        "path": "fromAtoZ.slnx",
+        "projects":
+        [
+            "src\\fromAtoZ.AppHost\\fromAtoZ.AppHost.csproj"
+        ]
+    }
+}
