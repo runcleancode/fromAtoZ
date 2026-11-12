@@ -1,2 +1,5 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/fromAtoZ.AppHost/fromAtoZ.AppHost.csproj" />
+  </Folder>
 </Solution>
