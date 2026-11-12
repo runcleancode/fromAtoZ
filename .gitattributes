@@ -1,0 +1,16 @@
+# Auto detect text files and perform LF normalization
+* text=Auto
+
+# C# files
+*.cs text diff= csharp
+*.csproj text
+*.sln text
+*.slnx test
+
+# Config files
+*.json text
+*.xml text
+*.props text
+*.targets text
+*.config text
+
